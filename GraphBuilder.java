@@ -30,6 +30,7 @@ public class GraphBuilder {
             prevWord = currentWord;
         }
         computeFloydWarshall();
+        System.out.println("change C4");
     }
 
     private void computeFloydWarshall() {
