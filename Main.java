@@ -7,6 +7,7 @@ import java.util.Set;
 public class Main {
     public static void main(String[] args) {
         System.out.println("commit1");
+        System.out.println("commit2");
         try {
             // 从控制台读取文件路径
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
