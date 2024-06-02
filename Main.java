@@ -11,6 +11,7 @@ public class Main {
         System.out.println("change B2");
         System.out.println("change B1");
         System.out.println("change C4");
+        System.out.println("change vscode");
         try {
             // 从控制台读取文件路径
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
